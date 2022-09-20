@@ -1,4 +1,4 @@
-# OneIndex
+# OneIndex    应该是原版，无反代功能
 Onedrive Directory Index
 
 ## 功能：
